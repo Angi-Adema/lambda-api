@@ -1,0 +1,25 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/
+.settings/
+.classpath
+.project
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AWS/Secrets (DO NOT COMMIT KEYS)
+.aws/
+*.pem
+*.ppk
+*.key
+trust.json
+out.json
+
